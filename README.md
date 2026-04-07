@@ -51,7 +51,7 @@
 | **ReWOO** | 计划-执行-求解分离，极低令牌 | 大批量工具调用、API 密集型任务 | 高 | [文章](https://mp.weixin.qq.com/s/F-xLzmukmuqCdWNWEB8VFA) | [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323) |
 | **Reflection** | 自我反思 + 情景记忆，无需训练 | 持续学习、代码调试、对话策略优化 | 中高 | [文章](https://mp.weixin.qq.com/s/Ik9sIDcwaorurBsoeVFVRg) | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) |
 
-> **注意**：ReWOO 的微信文章链接暂缺，建议自行搜索或替换为官方博客/教程。论文链接已提供。
+
 
 ---
 
