@@ -1,4 +1,4 @@
-# kddRepo
+
 ## 常见 Agent 设计模式
 
 现代语言模型驱动的 Agent 系统通常基于以下几种经典设计模式。每种模式在推理效率、任务分解能力、令牌消耗和可扩展性上各有侧重。
@@ -63,3 +63,6 @@
 - **如果你希望 Agent 能从错误中持续改进而不重新训练** → 选择 **Reflection**
 
 这些模式可以混合使用（例如 ReAct + Reflection 记忆），根据实际场景灵活组合。
+
+## 参考方案
+   1. **NVIDIA KGMON**: https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place
